@@ -1,0 +1,14 @@
+{
+    "users": {
+        "alice": "password123",
+        "bob": "hunter2",
+        "charlie": "qwerty456",
+        "dave": "letmein789",
+        "eve": "trustno1",
+        "frank": "abcDEF123",
+        "grace": "supersecure",
+        "heidi": "passw0rd!",
+        "ivan": "mydog1234",
+        "judy": "football99"
+    }
+}

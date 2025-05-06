@@ -1,0 +1,4 @@
+localenv
+__pycache__
+
+*.swp
