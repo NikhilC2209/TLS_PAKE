@@ -1,6 +1,6 @@
 # TLS with PAKE
 
-### SETUP
+### **SETUP**
 
 Create a python venv named localenv
 
@@ -11,3 +11,7 @@ Enter your python venv using `source ./env` (I've included a bash script `env` w
 Install libraries 
 
 `pip -r requirements.txt`
+
+### **HOW TO RUN**
+
+After installing all the required libraries open two terminal panes, start `python3 server.py` to fire up the server first then in the second window run `python3 client.py` to start the handshake process by the client.
