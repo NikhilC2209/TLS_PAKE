@@ -3,3 +3,5 @@ __pycache__
 dev.py
 
 *.swp
+server_data/*
+client_data/*
